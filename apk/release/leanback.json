@@ -1,5 +1,5 @@
 {
-  "code": 367,
-  "name": "3.6.7",
-  "desc": "* [App]\n* Support digest auth"
+  "code": 368,
+  "name": "3.6.8",
+  "desc": "* [Media3]\n* Fix buffer bug"
 }
