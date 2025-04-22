@@ -1,5 +1,5 @@
 {
-  "code": 371,
-  "name": "3.7.1",
-  "desc": "* [App]\n* Fix 302 crash"
+  "code": 372,
+  "name": "3.7.2",
+  "desc": "* [App]\n* Fix jx check"
 }
