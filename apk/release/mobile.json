@@ -1,5 +1,5 @@
 {
-  "code": 382,
-  "name": "3.8.2",
-  "desc": "* [App]\n* Remove local://\n* Optimize okhttp"
+  "code": 383,
+  "name": "3.8.3",
+  "desc": "* [App]\n* Optimize okhttp\n* [Live]\n* Fix m3u parser\n* Remove local://"
 }
