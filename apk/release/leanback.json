@@ -1,5 +1,5 @@
 {
-  "code": 396,
-  "name": "3.9.6",
-  "desc": "* [App]\n* Add bug"
+  "code": 397,
+  "name": "3.9.7",
+  "desc": "* [Live]\n* Fix m3u parse"
 }
